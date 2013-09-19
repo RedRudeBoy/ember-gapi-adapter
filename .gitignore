@@ -1,0 +1,48 @@
+#Config file
+config.gapi.js
+
+# IDEs files         #
+######################
+# Netbeans
+nbproject
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+# c9.io
+.c9revisions/
+# Others
+*.iml
+.idea
+rms.ipr
+rms.iws
+.komodotools
+.buildpath
+.project
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon
+# Thumbnails
+._*
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# Unix
+*~
+*.swp
+*.swo
